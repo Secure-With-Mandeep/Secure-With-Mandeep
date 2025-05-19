@@ -16,7 +16,5 @@ My journey through work and Education has led me to develop a passion for cybers
 | Phishing Attack Investigation | <a href="https://google.com">Detection Lab</a>|
 | OSINT Toolset      | SOC Automation Lab|
 | SIEM Implementation in Azure Cloud      | Project 1, Project 2, Project 3, Project 4, project 5|
-
-
 | Multi Honeypot platform             | SOC Automation Lab|
 | AI Enabled Incident Response Automation| SOC Automation Lab|
