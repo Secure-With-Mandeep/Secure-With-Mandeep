@@ -1,12 +1,15 @@
 ## Hello, I'm Mandeep Saini
 <a href="https://www.linkedin.com/in/securewithmandeep/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am A CyberSecurity professional with a profound interest in technology and a dedication to solving complex problems.
+I am A CyberSecurity professional with a profound interest in Offensive Security. A Certified Ethical Hacker and about to attempt OSCP (fingers crossed)
 
 ## Objective
+Brother-Watch is my project where you'll find tools for Recon, Scanning, Brute Forcing, Gaining Access, Privledge Escalation and Phishing etc etc (popular tools and my own). Eventually, i will combine all the tools above into one tool called Brother-Watch. 
+The idea behind Brother-Watch is  to pick a ctf or target and do the majority of what you need to do in one terminal-tab itself. That way you can have multiple targets or ctfs among multiple tabs. you can use this if you get bored of a ctf/target and still want to maintain consistency and productivity, you can have multiple open at the same time. (ethically ofcourse)
 
-My journey through work and Education has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Here you'll find Various projects that demontrate my interest and Ability in OSINT, Dark Web Monitoring, Network Analysis, Physhing Attack Analysis, SIEM and various tools Used for it.   
-
+ 
+**DISCLAIMER**
+This tool is only meant for Educational and Ethical purposes. Never use it on Systems you dont have permission for and always use ctfs for learning purposes. 
 ## Skills
 
 
