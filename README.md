@@ -33,6 +33,6 @@ The idea behind Brother-Watch is to pick a ctf or target ethically and do the ma
  
 **DISCLAIMER**
 - This tool is only meant for Educational and Ethical purposes. Never use it on Systems you don't have permission for and always use ctfs for learning purposes. 
-## Skills
+
 
 
