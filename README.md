@@ -23,7 +23,7 @@
 
 
 
-I am a CyberSecurity professional with a profound interest in Offensive Security. OSCP and CEH certified whois slowing delving into the world of Ai as well. 
+I am a CyberSecurity professional with a profound interest in Offensive Security. OSCP and CEH certified who is slowing delving into the world of Ai as well. 
 
 ## Objective                                                                                    
                                                                                                                                                                     
