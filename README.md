@@ -27,7 +27,7 @@ I am a CyberSecurity professional with a profound interest in Offensive Security
 
 ## Objective                                                                                    
                                                                                                                                                                     
-Brother-Watch is my project where you'll find tools for Recon, Scanning, Brute Forcing, Gaining Access, Privledge Escalation and Phishing etc etc (popular tools and my own). Eventually, i will combine all the tools above into one tool called Brother-Watch. It will be UI friendly with Interactive Shell asking you want do you wanna do next? and then list options of tools to perform it. further once you choose a tool, it will ask what options you wanna set for tool to perform. 
+Brother-Watch is my work in progress project where you'll find tools for Recon, Scanning, Brute Forcing, Gaining Access, Privledge Escalation and Phishing etc etc (popular tools and my own). Eventually, i will combine all the tools above into one tool called Brother-Watch. It will be UI friendly with Interactive Shell asking you want do you wanna do next? and then list options of tools to perform it. further once you choose a tool, it will ask what options you wanna set for tool to perform. 
 The idea behind Brother-Watch is to pick a ctf or target ethically and do the majority of what you need to do in one terminal-tab itself. That way you can have multiple targets or ctfs open among multiple tabs and still feel organised. You can use this if you get bored of a ctf/target and still want to maintain consistency and productivity, you can have multiple open at the same time. (ethically ofcourse)
 
  
